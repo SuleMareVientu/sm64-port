@@ -43,7 +43,7 @@ The following assumes a basic understanding of [Docker](https://www.docker.com/)
 **Clone Repository:**
 
 ```sh
-git clone https://github.com/mkst/sm64-port.git
+git clone https://github.com/SuleMareVientu/sm64-port.git
 ```
 
 **Navigate into freshly checked out repo:**
